@@ -1,0 +1,4322 @@
+[
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5121"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c419b7000e"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "20000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5100"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c419b7000e"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "250000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5101"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c419b7000e"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "10000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5102"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c419b7000e"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "5000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5103"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c419b7000e"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "9000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5104"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c419b7000e"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "10000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5105"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c419b7000e"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "10000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5108"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c419b7000e"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5121"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd17f8a0018"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "200000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5100"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd17f8a0018"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2500000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5101"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd17f8a0018"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5102"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd17f8a0018"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "50000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5103"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd17f8a0018"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "90000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5104"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd17f8a0018"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5105"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd17f8a0018"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5108"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd17f8a0018"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "20000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5121"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c4229e0018"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "20000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5100"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c4229e0018"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "250000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5101"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c4229e0018"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "10000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5102"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c4229e0018"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "5000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5103"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c4229e0018"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "9000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5104"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c4229e0018"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "10000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5105"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c4229e0018"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "10000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5108"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c4229e0018"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5121"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd183d9001d"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "200000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5100"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd183d9001d"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2500000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5101"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd183d9001d"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5102"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd183d9001d"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "50000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5103"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd183d9001d"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "90000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5104"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd183d9001d"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5105"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd183d9001d"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5108"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd183d9001d"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "20000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5121"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41a94000f"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "30000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5100"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41a94000f"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "250000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5101"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41a94000f"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "20000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5102"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41a94000f"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "7500",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5103"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41a94000f"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "9000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5104"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41a94000f"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "15000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5105"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41a94000f"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "15000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5108"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41a94000f"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5121"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd180120019"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "300000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5100"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd180120019"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2500000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5101"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd180120019"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "200000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5102"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd180120019"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "75000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5103"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd180120019"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "90000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5104"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd180120019"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "150000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5105"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd180120019"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "150000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5108"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd180120019"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "20000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5121"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c423630019"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "30000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5100"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c423630019"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "250000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5101"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c423630019"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "20000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5102"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c423630019"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "7500",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5103"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c423630019"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "9000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5104"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c423630019"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "15000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5105"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c423630019"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "15000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5108"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c423630019"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5121"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18467001e"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "300000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5100"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18467001e"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2500000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5101"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18467001e"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "200000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5102"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18467001e"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "75000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5103"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18467001e"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "90000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5104"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18467001e"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "150000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5105"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18467001e"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "150000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5108"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18467001e"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "20000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5121"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c418d2000d"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5100"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c418d2000d"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "250000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5101"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c418d2000d"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "40000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5102"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c418d2000d"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "15000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5103"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c418d2000d"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "10000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5104"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c418d2000d"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "50000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5105"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c418d2000d"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "50000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5108"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c418d2000d"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5121"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd17ed00017"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "1000000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5100"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd17ed00017"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2500000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5101"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd17ed00017"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "400000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5102"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd17ed00017"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "150000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5103"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd17ed00017"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5104"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd17ed00017"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "500000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5105"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd17ed00017"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "500000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5108"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd17ed00017"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "20000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5121"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c421d90017"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5100"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c421d90017"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "250000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5101"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c421d90017"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "40000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5102"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c421d90017"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "15000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5103"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c421d90017"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "10000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5104"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c421d90017"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "50000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5105"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c421d90017"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "50000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5108"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c421d90017"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5121"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18355001c"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "1000000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5100"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18355001c"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2500000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5101"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18355001c"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "400000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5102"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18355001c"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "150000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5103"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18355001c"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5104"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18355001c"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "500000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5105"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18355001c"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "500000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5108"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18355001c"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "20000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5121"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41c730011"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "200000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5100"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41c730011"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "250000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5101"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41c730011"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "50000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5102"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41c730011"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5103"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41c730011"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "10000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5104"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41c730011"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5105"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41c730011"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5108"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41c730011"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5121"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd1812b001b"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2000000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5100"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd1812b001b"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2500000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5101"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd1812b001b"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "500000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5102"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd1812b001b"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "1000000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5103"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd1812b001b"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5104"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd1812b001b"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "1000000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5105"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd1812b001b"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "1000000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5108"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd1812b001b"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "20000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5121"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c424a7001b"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "200000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5100"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c424a7001b"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "250000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5101"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c424a7001b"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "50000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5102"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c424a7001b"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5103"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c424a7001b"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "10000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5104"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c424a7001b"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5105"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c424a7001b"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5108"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c424a7001b"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5121"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd185a20020"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2000000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5100"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd185a20020"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2500000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5101"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd185a20020"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "500000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5102"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd185a20020"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "1000000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5103"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd185a20020"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5104"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd185a20020"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "1000000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5105"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd185a20020"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "1000000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5108"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd185a20020"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "20000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5121"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41bb30010"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "50000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5100"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41bb30010"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "250000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5101"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41bb30010"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "30000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5102"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41bb30010"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "10000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5103"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41bb30010"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "10000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5104"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41bb30010"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "25000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5105"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41bb30010"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "25000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5108"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c41bb30010"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5121"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18098001a"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "500000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5100"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18098001a"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2500000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5101"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18098001a"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "300000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5102"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18098001a"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5103"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18098001a"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5104"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18098001a"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "250000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5105"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18098001a"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "250000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5108"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18098001a"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "20000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5121"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c423f9001a"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "50000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5100"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c423f9001a"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "250000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5101"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c423f9001a"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "30000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5102"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c423f9001a"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "10000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5103"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c423f9001a"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "10000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5104"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c423f9001a"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "25000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5105"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c423f9001a"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "25000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5108"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f94d586e40c080186e4c423f9001a"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5121"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18512001f"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "500000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5100"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18512001f"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "2500000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5101"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18512001f"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "300000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5102"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18512001f"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5103"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18512001f"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "100000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5104"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18512001f"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "250000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5105"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18512001f"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "250000",
+            "customPeriods": []
+        }
+    },
+    {
+        "user-BBID": "392135c3-728d-4651-9dbc-b6dccd354818",
+        "entities": [
+            {
+                "etype": "FUN",
+                "eref": "5108"
+            },
+            {
+                "etype": "FAG",
+                "eref": "2c9f9fb0875665480187bdd18512001f"
+            },
+            {
+                "etype": "SA",
+                "eref": "2c9f9230888f104101888fea1d180005"
+            },
+            {
+                "etype": "PRV",
+                "eref": "approve"
+            }
+        ],
+        "shadow": false,
+        "currency": "SAR",
+        "periodic-limits-bounds": {
+            "daily": "20000",
+            "customPeriods": []
+        }
+    }
+]
